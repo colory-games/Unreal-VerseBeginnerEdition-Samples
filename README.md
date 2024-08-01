@@ -26,4 +26,4 @@
 
 ## バグ報告や議論
 
-サンプルプロジェクトにバグが存在する場合は、[Issue](https://github.com/colory-games/Unreal-VerseBeginnerEdition-Samples/issues) や [Discord](https://discord.gg/F9cRxfAuJd) などで報告いただけると助かります。
+サンプルプロジェクトにバグが存在する場合は、[Issue](https://github.com/colory-games/Unreal-VerseBeginnerEdition-Samples/issues) や [Discord (アンリアる！verse入門編 チャンネル)](https://discord.gg/bwTWqmdQaG) などで報告いただけると助かります。
